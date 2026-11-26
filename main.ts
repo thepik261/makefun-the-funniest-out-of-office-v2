@@ -38,7 +38,7 @@ type Candidate = {
 const CANDIDATES: Candidate[] = [
   {
     text:
-      "I'm out until Monday. My toddler is running my inbox and has " +
+      "I'm out until Monday. My toddler is running my inbox and already " +
       "approved everything, including the email you're about to send.",
     idea:
       "Setup: a toddler runs the inbox. Twist: your own email — the one " +
